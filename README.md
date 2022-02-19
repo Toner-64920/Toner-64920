@@ -5,8 +5,14 @@
 - 📫 How to reach me direct message or email
 - If you are an employer or company employee looking at this due to a job application or query please direct message me
 if you have questions or want specific projects/repository invites
-- If you have questions or want help with certain courses, specifically in ECSE, ENGR, and CSCI
-(electrical engineering, general engineering, or computer science courses), please reach out with a direct message
+
+Projects/Public Work:
+-Sales Forecasting LSTM Neural Network (Python)
+-Version Control Tests (Modelica)
+-And more...
+
+Other projects are available but require invites to access.
+If you want access please ask for approval and provide a reason why you want access.
 
 <!---
 Toner-64920/Toner-64920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
