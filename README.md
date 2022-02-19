@@ -11,10 +11,11 @@ Projects/Public Work:
 
 - Version Control Tests (Modelica)
 
-- And more...
+- *And more...*
 
-Other projects are available but require invites to access.
+Other projects and repositories are available but require invites to access.
 If you want access please ask for approval and provide a reason why you want access.
+Privated repositories include work in Modelica, C, and more languages.
 
 <!---
 Toner-64920/Toner-64920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
