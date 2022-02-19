@@ -7,9 +7,11 @@
 if you have questions or want specific projects/repository invites
 
 Projects/Public Work:
--Sales Forecasting LSTM Neural Network (Python)
--Version Control Tests (Modelica)
--And more...
+- Sales Forecasting LSTM Neural Network (Python)
+
+- Version Control Tests (Modelica)
+
+- And more...
 
 Other projects are available but require invites to access.
 If you want access please ask for approval and provide a reason why you want access.
