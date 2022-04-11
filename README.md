@@ -20,7 +20,7 @@ Projects/Public Work:
 - *And more...*
 
 Other projects and repositories are available but require invites to access.
-If you want access please ask for approval and provide a reason why you want access.
+If you want access please ask for approval.
 Privated repositories include work in Modelica, C, and more languages.
 
 <!---
