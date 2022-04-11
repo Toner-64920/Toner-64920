@@ -9,9 +9,13 @@ if you have questions or want specific projects/repository invites
 Projects/Public Work:
 - Sales Forecasting LSTM Neural Network (Python)
 
+- Basic LSTM Neural Networks (Python)
+
+- Data Manipulation, Sorting, and Analysis Programs (Python)
+
 - Modelica Based Simulations and Simulation Models (Modelica)
 
-- Programs and Control Programs in C
+- Programs and Control Programs (C)
 
 - *And more...*
 
