@@ -9,7 +9,9 @@ if you have questions or want specific projects/repository invites
 Projects/Public Work:
 - Sales Forecasting LSTM Neural Network (Python)
 
-- Version Control Tests (Modelica)
+- Modelica Based Simulations and Simulation Models (Modelica)
+
+- Programs and Control Programs in C
 
 - *And more...*
 
